@@ -103,7 +103,7 @@ var editTask=function(){
 
 
 //Delete task.
-var deleteTask=function(){
+var deleteTask=function() {
   console.log("Delete Task...");
 
   var listItem=this.parentNode;
