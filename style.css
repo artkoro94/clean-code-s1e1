@@ -36,7 +36,7 @@
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .task-input {
@@ -162,13 +162,13 @@ input,button{
 /* Completed */
 
 ul#completed-tasks .label-style {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 .ul-style .li-style .input-style[type="text"] {
-  display: none
+  display: none;
 }
 
 .ul-style .li-style.edit-mode .input-style[type="text"] {
