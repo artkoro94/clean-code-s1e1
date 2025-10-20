@@ -173,7 +173,7 @@ ul#completed-tasks .label-style {
 
 .ul-style .li-style.edit-mode .input-style[type="text"] {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .ul-style li.edit-mode .label-style {
